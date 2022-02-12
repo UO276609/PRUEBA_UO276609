@@ -5,7 +5,7 @@ public class Prac0 {
 		// TODO Auto-generated method stub
 		String uo="UO276609";
 		int num=1;		
-
+		System.out.println("Mod. master");
 
 
 	}
