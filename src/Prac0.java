@@ -2,7 +2,7 @@
 public class Prac0 {
 
 	public static void main(String[] args) {
-		String uo="UO";
+		String uo="UO321321";
 
 	}
 
