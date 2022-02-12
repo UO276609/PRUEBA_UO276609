@@ -5,6 +5,7 @@ public class Prac0 {
 		// TODO Auto-generated method stub
 		String uo="UO276609";
 		int num=25;
+		String mod="Modificación rama 1";
 
 	}
 
